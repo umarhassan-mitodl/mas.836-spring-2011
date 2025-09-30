@@ -5,6 +5,8 @@ description: This resource contains the information related to the use of test e
 file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/74bb92e3863e83501ea146ed3c56f13e_MITMAS_836S11_lab1.pdf
 file_size: 121992
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

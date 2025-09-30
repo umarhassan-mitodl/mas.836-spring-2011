@@ -43,9 +43,9 @@ Lab 2 ({{% resource_link "97ec66ca-7512-3a78-5728-3695a2115303" "PDF" %}})
 Introduction to power supplies and op-amps
 {{< tdclose >}}{{< tdopen >}}
 
-TLV2374 datasheet ({{% resource_link "0589d17d-4bce-4b18-8bcf-3c0a8e969dcd" "PDF - 1.4MB" %}})
+TLV2374 datasheet ([PDF - 1.4MB](http://focus.ti.com/lit/ds/symlink/tlv2374.pdf))
 
-7805 datasheet ({{% resource_link "3994a0ef-b254-48c1-9591-23eda4940852" "PDF" %}})
+7805 datasheet ([PDF](https://www.sparkfun.com/datasheets/Components/LM7805.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Problem Set 3 ({{% resource_link "a584bae8-d776-8a26-7452-335c4852f867" "PDF" %}})
@@ -58,18 +58,18 @@ Lab 3 ({{% resource_link "f0a306d6-31bf-f55e-b475-ef72d34d0a29" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Introduction to force sensitive resistors and piezo films
 {{< tdclose >}}{{< tdopen >}}
-Interlink electronics.{{% resource_link "140c08b6-988e-4142-b79e-5c9f55e4a99c" "\"FSR™ Force Sensing Resistors Integration Guide.\" (PDF)" %}}
+Interlink electronics.["FSR™ Force Sensing Resistors Integration Guide." (PDF)](https://www.digikey.com/en/pdf/i/interlink-electronics/interlink-electronics-fsr-force-sensing-resistors-integration-guide)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Problem Set/Lab 4 ({{% resource_link "d26e6d1b-696b-c948-70bf-113f309b57c1" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Introduction to capacitive sensing
 {{< tdclose >}}{{< tdopen >}}
 
-ADXL203 Spec sheet (replaces ADXL202) ({{% resource_link "b5e9f427-be9e-4bdf-9144-d4bd7255ed3a" "PDF" %}})
+ADXL203 Spec sheet (replaces ADXL202) ([PDF](http://www.analog.com/static/imported-files/data_sheets/ADXL103_203.pdf))
 
-AD713 Spec sheet ({{% resource_link "de272a97-4676-4f3f-b6a8-ae662374c88a" "PDF" %}})
+AD713 Spec sheet ([PDF](http://www.analog.com/static/imported-files/data_sheets/AD713.pdf))
 
-MAX494 Spec sheet ({{% resource_link "b3409a20-5c7c-45c7-812b-45dce32f0c84" "PDF" %}})
+MAX494 Spec sheet ([PDF](https://users.ece.utexas.edu/~valvano/Datasheets/MAX492-MAX495.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final project

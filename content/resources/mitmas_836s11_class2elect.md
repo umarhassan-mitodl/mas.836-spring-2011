@@ -5,6 +5,8 @@ description: This resource contains the information related to analog conditioni
 file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/4462b625113bfc2f0f253d91fa23ce3a_MITMAS_836S11_Class2Elect.pdf
 file_size: 6210456
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
