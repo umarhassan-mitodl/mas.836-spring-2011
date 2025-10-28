@@ -43,9 +43,9 @@ Lab 2 ({{% resource_link "97ec66ca-7512-3a78-5728-3695a2115303" "PDF" %}})
 Introduction to power supplies and op-amps
 {{< tdclose >}}{{< tdopen >}}
 
-TLV2374 datasheet ([PDF - 1.4MB](http://focus.ti.com/lit/ds/symlink/tlv2374.pdf))
+TLV2374 datasheet ({{% resource_link "53c9abc2-967f-4988-a976-5a0f7cebe69c" "PDF - 1.4MB" %}})
 
-7805 datasheet ([PDF](https://www.sparkfun.com/datasheets/Components/LM7805.pdf))
+7805 datasheet ({{% resource_link "836e5111-704b-43ff-ab9e-d00291254207" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Problem Set 3 ({{% resource_link "a584bae8-d776-8a26-7452-335c4852f867" "PDF" %}})
@@ -58,18 +58,18 @@ Lab 3 ({{% resource_link "f0a306d6-31bf-f55e-b475-ef72d34d0a29" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Introduction to force sensitive resistors and piezo films
 {{< tdclose >}}{{< tdopen >}}
-Interlink electronics.["FSR™ Force Sensing Resistors Integration Guide." (PDF)](https://www.digikey.com/en/pdf/i/interlink-electronics/interlink-electronics-fsr-force-sensing-resistors-integration-guide)
+Interlink electronics.{{% resource_link "bdca6c9e-4280-445b-a751-a4760483d514" "\"FSR™ Force Sensing Resistors Integration Guide.\" (PDF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Problem Set/Lab 4 ({{% resource_link "d26e6d1b-696b-c948-70bf-113f309b57c1" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 Introduction to capacitive sensing
 {{< tdclose >}}{{< tdopen >}}
 
-ADXL203 Spec sheet (replaces ADXL202) ([PDF](http://www.analog.com/static/imported-files/data_sheets/ADXL103_203.pdf))
+ADXL203 Spec sheet (replaces ADXL202) ({{% resource_link "0e911070-8c7d-483d-bd96-576de89d5ef8" "PDF" %}})
 
-AD713 Spec sheet ([PDF](http://www.analog.com/static/imported-files/data_sheets/AD713.pdf))
+AD713 Spec sheet ({{% resource_link "9aa24e4d-aa32-4a9a-a9a9-f312134dbd0d" "PDF" %}})
 
-MAX494 Spec sheet ([PDF](https://users.ece.utexas.edu/~valvano/Datasheets/MAX492-MAX495.pdf))
+MAX494 Spec sheet ({{% resource_link "d7c38297-b2cb-40ce-a16a-d2877d204263" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final project

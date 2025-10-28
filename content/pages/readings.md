@@ -13,7 +13,7 @@ This page lists the assigned readings for some individual class sessions, plus a
 
 ## Textbooks
 
-\[JF\] = Fraden, J. *Handbook of Modern Sensors: Physics, Designs, and Applications*. 4th ed. Springer, 2010. ISBN: 9781441964656. \[Preview with [Google Books](http://books.google.com/books?id=W0Emv9dAJ1kC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\] (3rd edition also OK)
+\[JF\] = Fraden, J. *Handbook of Modern Sensors: Physics, Designs, and Applications*. 4th ed. Springer, 2010. ISBN: 9781441964656. \[Preview with {{% resource_link "82e2d245-4c56-4a6e-a1f5-d1f8aba3bd85" "Google Books" %}}\] (3rd edition also OK)
 
 \[H&H\] = Horowitz, P., and W. Hill. *The Art of Electronics*. 2nd ed. Cambridge University Press, 1989. ISBN: 9780521370950.
 
@@ -37,7 +37,7 @@ Introduction; basic sensor-related electronics and signal conditioning
 
 \[H&H\] Chapters 4 and 7 (op-amps).
 
-Pallás-Areny, R., and J. G. Webster. Chapter in *Analog Signal Processing*. Wiley-IEEE, 1999. ISBN: 9780471125280. \[Preview with [Google Books](http://books.google.com/books?id=JpVk-x-UGroC&lpg=PR3&pg=PA122#v=onepage&q&f=false)\]
+Pallás-Areny, R., and J. G. Webster. Chapter in *Analog Signal Processing*. Wiley-IEEE, 1999. ISBN: 9780471125280. \[Preview with {{% resource_link "228cd9e5-5249-4882-900e-326840415372" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -59,7 +59,7 @@ Electronics (cont.)
 
 Vaughan, R. G., N. L. Scott, et al. "The Theory of Bandpass Sampling." *IEEE Transactions on Signal Processing* 39, no. 9 (1991): 1973-84.
 
-National Semiconductor. Datasheet for "LM13700 Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers." ([PDF](http://www.ti.com/lit/ds/symlink/lm13700.pdf))
+National Semiconductor. Datasheet for "LM13700 Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers." ({{% resource_link "8c12230c-fc61-4242-b447-619c19663edd" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -67,23 +67,23 @@ National Semiconductor. Datasheet for "LM13700 Dual Operational Transconductance
 Pressure and force
 {{< tdclose >}}{{< tdopen >}}
 
-Interlink Electronics. "FSR™ Force Sensing Resistors Integration Guide." ([PDF - 1.4MB](https://www.digikey.com/en/pdf/i/interlink-electronics/interlink-electronics-fsr-force-sensing-resistors-integration-guide))
+Interlink Electronics. "FSR™ Force Sensing Resistors Integration Guide." ({{% resource_link "bdca6c9e-4280-445b-a751-a4760483d514" "PDF - 1.4MB" %}})
 
-Papakostas, T. V., J. Lima, et al. "[A Large Area Force Sensor for Smart Skin Applications](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1037366)." *Proceedings of IEEE Sensors 2002*, vol. 2, pp. 1620-4.
+Papakostas, T. V., J. Lima, et al. "{{% resource_link "2b744ae1-7289-4eba-b0f7-295c8b4f7dbd" "A Large Area Force Sensor for Smart Skin Applications" %}}." *Proceedings of IEEE Sensors 2002*, vol. 2, pp. 1620-4.
 
 *Optional*
 
-Hristu, D., N. Ferrier, et al. "[The Performance of a Deformable-Membrane Tactile Sensor: Basic Results on Geometrically-Defined Tasks](https://ieeexplore.ieee.org/document/844105)." *Proceedings of IEEE Int'l Conf. on Robotics and Automation 2000*.
+Hristu, D., N. Ferrier, et al. "{{% resource_link "beada82b-277d-475c-a0c4-8d8b18f3e9e8" "The Performance of a Deformable-Membrane Tactile Sensor: Basic Results on Geometrically-Defined Tasks" %}}." *Proceedings of IEEE Int'l Conf. on Robotics and Automation 2000*.
 
-Karniyama, K., et al. "[Vision-Based Sensor for Real-Time Measuring of Surface Traction Fields](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1381228)." *IEEE Computer Graphics and Applications* 25, no. 1 (2005): 68-75.
+Karniyama, K., et al. "{{% resource_link "7dc092d4-e128-48a4-b8cb-b396e455b8ce" "Vision-Based Sensor for Real-Time Measuring of Surface Traction Fields" %}}." *IEEE Computer Graphics and Applications* 25, no. 1 (2005): 68-75.
 
-Koehly, R., D. Curtil, et al. "[Paper FSRs and Latex/Fabric Traction Sensors: Methods for The Development of Home-Made Touch Sensors](https://www.nime.org/proceedings/2006/nime2006_230.pdf)." *NIME '06 Proceedings of the 2006 conference on New interfaces for musical expression*.
+Koehly, R., D. Curtil, et al. "{{% resource_link "768a32b5-c005-4824-a045-72d0bb2d970b" "Paper FSRs and Latex/Fabric Traction Sensors: Methods for The Development of Home-Made Touch Sensors" %}}." *NIME '06 Proceedings of the 2006 conference on New interfaces for musical expression*.
 
-McElligott, L., et al. "'[ForSe FIElds' — Force Sensors For Interactive Environments](https://resenv.media.mit.edu/pubs/papers/2002-09-UBICOMP-forsefields.pdf)." *Proceedings of UBICOMP 2002*.
+McElligott, L., et al. "'{{% resource_link "02937761-6632-41a0-b1af-d8dc87087d19" "ForSe FIElds' — Force Sensors For Interactive Environments" %}}." *Proceedings of UBICOMP 2002*.
 
-Mattmann, C., et al. "[Recognizing Upper Body Postures using Textile Strain Sensors](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4373773)." *Proceedings of 11th IEEE International Symposium on Wearable Computers*, pp. 29-36.
+Mattmann, C., et al. "{{% resource_link "61babcdf-b13b-45e6-a5cb-ce78f12671e7" "Recognizing Upper Body Postures using Textile Strain Sensors" %}}." *Proceedings of 11th IEEE International Symposium on Wearable Computers*, pp. 29-36.
 
-Lombriser, C., et al. "[Modeling Service-Oriented Context Processing in Dynamic Body Area Networks](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4740885)." *IEEE Journal on Selected Areas in Communications* 27, no. 1 (2009): 49-57.
+Lombriser, C., et al. "{{% resource_link "a9d2cd29-98ef-4c10-9a3b-f58907651b16" "Modeling Service-Oriented Context Processing in Dynamic Body Area Networks" %}}." *IEEE Journal on Selected Areas in Communications* 27, no. 1 (2009): 49-57.
 
 Merlin Systems Corporation. *Merlin Stetch Sensor Application Note*. 2004.
 
@@ -93,9 +93,9 @@ Merlin Systems Corporation. *Merlin Stetch Sensor Application Note*. 2004.
 Pressure, strain and piezoelectrics
 {{< tdclose >}}{{< tdopen >}}
 
-Piezo Systems, Inc. [Introduction to Piezo Transducers](http://www.piezo.com/tech2intropiezotrans.html).
+Piezo Systems, Inc. {{% resource_link "f18d5590-5290-4980-8573-ae2954c13ba0" "Introduction to Piezo Transducers" %}}.
 
-Measurement Specialties, Inc. (MSI). *Piezo Film Sensors Technical Manual*. ([PDF - 1.4MB](http://www.imagesco.com/sensors/piezofilm.pdf)) \[Read in particular pp. 2-4, 27-31, and 36-42\]
+Measurement Specialties, Inc. (MSI). *Piezo Film Sensors Technical Manual*. ({{% resource_link "43c1398b-d918-49c9-9eba-adadcf82e84a" "PDF - 1.4MB" %}}) \[Read in particular pp. 2-4, 27-31, and 36-42\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -105,11 +105,11 @@ Electric field and capacitive sensing
 
 *Optional*
 
-Paradiso, J. A., and N. Gershenfeld. "Musical Applications of Electric Field Sensing." *Computer Music Journal* 21, no. 2 (Summer 1997): 69-89. ([PDF - 1.2MB](http://www.media.mit.edu/resenv/pubs/papers/96_04_cmj.pdf))
+Paradiso, J. A., and N. Gershenfeld. "Musical Applications of Electric Field Sensing." *Computer Music Journal* 21, no. 2 (Summer 1997): 69-89. ({{% resource_link "64133e1b-0d22-46cd-bcd1-78fec482b64e" "PDF - 1.2MB" %}})
 
-Philipp, H. "[Charge Transfer Sensing](https://fliphtml5.com/hzci/gjjy/basic)." *Sensor Review* 19, no. 2 (1999): 96-105.
+Philipp, H. "{{% resource_link "e103e2c9-0c30-4d0d-a09b-5159b894f341" "Charge Transfer Sensing" %}}." *Sensor Review* 19, no. 2 (1999): 96-105.
 
-Baxter, L. *Capacitive Sensors: Design and Applications*. John Wiley & Sons, 1996. ISBN: 9780780353510. \[Preview with [Google Books](http://books.google.com/books?id=Tjd2laRnO4wC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
+Baxter, L. *Capacitive Sensors: Design and Applications*. John Wiley & Sons, 1996. ISBN: 9780780353510. \[Preview with {{% resource_link "3a400a75-49f4-4f0f-ad8a-c347e7b1c860" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -117,9 +117,9 @@ Baxter, L. *Capacitive Sensors: Design and Applications*. John Wiley & Sons, 199
 Capacitive applications and magnetic sensing
 {{< tdclose >}}{{< tdopen >}}
 
-Raab, F. H., et al. "[Magnetic Position and Orientation Tracking System](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4102227)." *IEEE Transactions on Aerospace and Electronic Systems* 15, no. 5 (1979): 709-18. \[Paper on Polhemus tracker technologies\]
+Raab, F. H., et al. "{{% resource_link "279bd277-a217-42ca-a904-5036f80c532c" "Magnetic Position and Orientation Tracking System" %}}." *IEEE Transactions on Aerospace and Electronic Systems* 15, no. 5 (1979): 709-18. \[Paper on Polhemus tracker technologies\]
 
-Lee, S. K., W. Buxton, et al. "A Multi-Touch Three Dimensional Touch-Sensitive Tablet." *CHI '85 Proceedings* (1985): 21-6. ([PDF](http://www.billbuxton.com/leebuxtonsmith.pdf)) \[Paper on Buxton's capacitive trackpad\]
+Lee, S. K., W. Buxton, et al. "A Multi-Touch Three Dimensional Touch-Sensitive Tablet." *CHI '85 Proceedings* (1985): 21-6. ({{% resource_link "3820eb23-6cff-41cd-ad38-74998f9feda9" "PDF" %}}) \[Paper on Buxton's capacitive trackpad\]
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
