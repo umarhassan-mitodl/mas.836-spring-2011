@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides information on course goals, meeting times,
   textbooks, coursework, grading, and the schedule of lecture topics and assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -29,7 +27,7 @@ The overall goal of this course is for students to attain a broad familiarity wi
 Textbooks
 ---------
 
-Fraden, J. _Handbook of Modern Sensors: Physics, Designs, and Applications_. 4th ed. Springer, 2010. ISBN: 9781441964656. \[Preview with [Google Books](http://books.google.com/books?id=W0Emv9dAJ1kC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\] (3rd edition also OK)
+Fraden, J. _Handbook of Modern Sensors: Physics, Designs, and Applications_. 4th ed. Springer, 2010. ISBN: 9781441964656. \[Preview with {{% resource_link "82e2d245-4c56-4a6e-a1f5-d1f8aba3bd85" "Google Books" %}}\] (3rd edition also OK)
 
 Horowitz, P., and W. Hill. _The Art of Electronics_. 2nd ed. Cambridge University Press, 1989. ISBN: 9780521370950.
 

@@ -4,8 +4,6 @@ description: This resource contains the information related to analog electronic
 file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/5eb3032b0667f4ab24b1d0ec8745e06e_MITMAS_836S11_Class3Elect.pdf
 file_size: 4573949
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

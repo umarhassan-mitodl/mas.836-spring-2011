@@ -33,7 +33,6 @@
     "website": "mas-836-sensor-technologies-for-interactive-environments-spring-2011"
   },
   "course_title": "Sensor Technologies for Interactive Environments",
-  "hide_download": true,
   "course_description": "This course is a broad introduction to a host of sensor technologies, illustrated by applications drawn from human-computer interfaces and ubiquitous computing. After extensively reviewing electronics for sensor signal conditioning, the lectures cover the principles and operation of a variety of sensor architectures and modalities, including pressure, strain, displacement, proximity, thermal, electric and magnetic field, optical, acoustic, RF, inertial, and bioelectric. Simple sensor processing algorithms and wired and wireless network standards are also discussed. Students are required to complete written assignments, a set of laboratories, and a final project.\n",
   "department_numbers": [
     "MAS"
@@ -44,7 +43,6 @@
     "content": "3c606118-268b-59c4-a3d7-8165dae2fe99",
     "website": "mas-836-sensor-technologies-for-interactive-environments-spring-2011"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

@@ -8,15 +8,13 @@ description: A sensor visualization of MIT's Media Lab complex rendered by the D
 file: /courses/mas-836-sensor-technologies-for-interactive-environments-spring-2011/3c606118268b59c4a3d78165dae2fe99_mas-836s11-th.jpg
 file_size: 12705
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
-  caption: A sensor visualization of MIT's Media Lab complex rendered by the [DoppelLab
-    project](http://www.media.mit.edu/resenv/doppellab/) in Prof. Paradiso's Responsive
-    Environments group. DoppelLab uses the popular game engine Unity3D to transform
-    architectural models into a browsing environment for real-time sensor data visualizations,
-    as well as an open-ended platform for building visual applications atop those
-    data. (Image by Prof. Joseph Paradiso.)
+  caption: A sensor visualization of MIT's Media Lab complex rendered by the {{% resource_link
+    "314ed410-30f3-44a6-bd30-31cb8afff2b4" "DoppelLab project" %}} in Prof. Paradiso's
+    Responsive Environments group. DoppelLab uses the popular game engine Unity3D
+    to transform architectural models into a browsing environment for real-time sensor
+    data visualizations, as well as an open-ended platform for building visual applications
+    atop those data. (Image by Prof. Joseph Paradiso.)
   credit: A sensor visualization of MIT's Media Lab complex rendered by the DoppelLab
     project in Prof. Paradiso's Responsive Environments group. DoppelLab uses the
     popular game engine Unity3D to transform architectural models into a browsing
